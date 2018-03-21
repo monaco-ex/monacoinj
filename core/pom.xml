@@ -442,6 +442,11 @@
             <version>3.6.0</version>
         </dependency>
         <dependency>
+            <groupId>org.bitcoinj</groupId>
+            <artifactId>bitcoinj-core</artifactId>
+            <version>0.15-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>de.sfuhrm</groupId>
             <artifactId>saphir-hash-core</artifactId>
             <version>3.0.3</version>
